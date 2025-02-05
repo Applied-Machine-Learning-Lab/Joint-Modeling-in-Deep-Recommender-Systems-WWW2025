@@ -56,6 +56,10 @@ In the current digital era, Deep Recommender Systems (DRS) are essential for nav
 </tr>
 
 <tr style="border: none;">
+</td>
+<td align="center" style="width: 200px;">
+<img class="circlepic" src="./imgs/Yejing.jpg" />
+</td>
 <td align="center" style="width: 200px;" >
 <img class="circlepic" src="./imgs/Yichao.png" />
 </td>
@@ -68,10 +72,14 @@ In the current digital era, Deep Recommender Systems (DRS) are essential for nav
 <td align="center" style="width: 200px;">
 <img class="circlepic" src="./imgs/Ruiming.png" />
 </td>
+
 </tr>
 
 
 <tr  style="border: none;">
+<td align="center">
+<b>Yejing Wang</b>
+</td>
 <td align="center">
 <b>Yichao Wang</b>
 </td>
