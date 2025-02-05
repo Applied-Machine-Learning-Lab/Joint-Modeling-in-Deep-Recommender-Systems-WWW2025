@@ -26,14 +26,15 @@ In the current digital era, Deep Recommender Systems (DRS) are essential for nav
 <img class="circlepic" src="./imgs/Jingtong.png" />
 </td>
 <td align="center" style="width: 200px;">
+<img class="circlepic" src="./imgs/Yejing.jpg" />
+</td>
+<td align="center" style="width: 200px;">
 <img class="circlepic" src="./imgs/Yuhao.png" />
 </td>
 <td align="center" style="width: 200px;">
 <img class="circlepic" src="./imgs/Xiaopeng.png" />
 </td>
-<td align="center" style="width: 200px;">
-<img class="circlepic" src="./imgs/Qidong.png" />
-</td>
+
 </tr>
 
 
@@ -45,20 +46,21 @@ In the current digital era, Deep Recommender Systems (DRS) are essential for nav
 <b>Jingtong Gao</b>
 </td>
 <td align="center">
+<b>Yejing Wang</b>
+</td>
+<td align="center">
 <b>Yuhao Wang</b>
 </td>
 <td align="center">
 <b>Xiaopeng Li</b>
 </td>
-<td align="center">
-<b>Qidong Liu</b>
-</td>
+
 </tr>
 
 <tr style="border: none;">
 </td>
 <td align="center" style="width: 200px;">
-<img class="circlepic" src="./imgs/Yejing.jpg" />
+<img class="circlepic" src="./imgs/Qidong.png" />
 </td>
 <td align="center" style="width: 200px;" >
 <img class="circlepic" src="./imgs/Yichao.png" />
@@ -78,7 +80,7 @@ In the current digital era, Deep Recommender Systems (DRS) are essential for nav
 
 <tr  style="border: none;">
 <td align="center">
-<b>Yejing Wang</b>
+<b>Qidong Liu</b>
 </td>
 <td align="center">
 <b>Yichao Wang</b>
