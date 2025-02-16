@@ -19,21 +19,21 @@ In the current digital era, Deep Recommender Systems (DRS) are essential for nav
 <tbody style="border: none; margin-left: auto; margin-right: auto;">
 
 <tr style="border: none;">
-<td align="center" style="width: 200px;" >
-<img class="circlepic" src="./imgs/Pengyue.png" />
-</td>
-<td align="center" style="width: 200px;">
-<img class="circlepic" src="./imgs/Jingtong.png" />
-</td>
-<td align="center" style="width: 200px;">
-<img class="circlepic" src="./imgs/Yejing.jpg" />
-</td>
-<td align="center" style="width: 200px;">
-<img class="circlepic" src="./imgs/Yuhao.png" />
-</td>
-<td align="center" style="width: 200px;">
-<img class="circlepic" src="./imgs/Xiaopeng.png" />
-</td>
+  <td align="center" style="width: 200px;" >
+  <img class="circlepic" src="./imgs/Pengyue.png" />
+  </td>
+  <td align="center" style="width: 200px;">
+  <img class="circlepic" src="./imgs/Jingtong.png" />
+  </td>
+  <td align="center" style="width: 200px;">
+  <img class="circlepic" src="./imgs/Yejing.jpg" />
+  </td>
+  <td align="center" style="width: 200px;">
+  <img class="circlepic" src="./imgs/Yuhao.png" />
+  </td>
+  <td align="center" style="width: 200px;">
+  <img class="circlepic" src="./imgs/Xiaopeng.png" />
+  </td>
 
 </tr>
 
@@ -58,7 +58,6 @@ In the current digital era, Deep Recommender Systems (DRS) are essential for nav
 </tr>
 
 <tr style="border: none;">
-</td>
 <td align="center" style="width: 200px;">
 <img class="circlepic" src="./imgs/Qidong.png" />
 </td>
